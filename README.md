@@ -44,7 +44,8 @@ This analysis helps support better decision-making in menu optimization, invento
 ---
 
 ##  Project Preview
-<img width="1920" height="800" alt="RESTURANT_ANALYSIS_BY_DEMG" src="https://github.com/user-attachments/assets/bc6ccf5c-c88a-4d6d-9ecd-dcec14a77629" />
+<img width="1920" height="800" alt="RESTURANT_ANALYSIS_BY_DEMG&#39;S and 4 more pages - Personal - Microsoft​ Edge 12_05_2026 14_17_15" src="https://github.com/user-attachments/assets/a0cda87e-fd41-45aa-86e0-e262195382ab" />
+
 
 
 ---
