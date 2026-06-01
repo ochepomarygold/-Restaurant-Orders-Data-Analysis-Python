@@ -44,6 +44,7 @@ This analysis helps support better decision-making in menu optimization, invento
 ---
 
 ##  Project Preview
+[Restaurant_Analysis_Notebook.ipynb](https://github.com/user-attachments/files/28479135/Restaurant_Analysis_Notebook.ipynb)
 
 [Restaurant_Analysis_Notebook.ipynb](https://github.com/user-attachments/files/28410291/Restaurant_Analysis_Notebook.ipynb)
 
