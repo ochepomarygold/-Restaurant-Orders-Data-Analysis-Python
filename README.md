@@ -44,7 +44,9 @@ This analysis helps support better decision-making in menu optimization, invento
 ---
 
 ##  Project Preview
-[Restaurant_Analysis_Notebook.ipynb](https://github.com/user-attachments/files/28479135/Restaurant_Analysis_Notebook.ipynb)
+<img width="1920" height="1020" alt="Restaurant_Analysis_Notebook and 5 more pages - Personal - Microsoft​ Edge 01_06_2026 21_57_55" src="https://github.com/user-attachments/assets/564359fe-e0eb-47f9-9274-ab110c4fa286" />
+<img width="1920" height="1020" alt="Restaurant_Analysis_Notebook and 5 more pages - Personal - Microsoft​ Edge 01_06_2026 21_57_16" src="https://github.com/user-attachments/assets/6f54a66a-0b30-43ed-8c65-ed6bdef47e73" />
+
 
 [Restaurant_Analysis_Notebook.ipynb](https://github.com/user-attachments/files/28410291/Restaurant_Analysis_Notebook.ipynb)
 
