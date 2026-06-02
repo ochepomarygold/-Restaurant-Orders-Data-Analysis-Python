@@ -61,4 +61,5 @@ This analysis helps support better decision-making in menu optimization, invento
 - Jupyter Notebook
 ---
 ## View Full Analysis
-[Restaurant_Analysis_Notebook.ipynb](https://github.com/user-attachments/files/28505529/Restaurant_Analysis_Notebook.ipynb)
+[RESTURANT_ANALYSIS_-checkpoint.ipynb](https://github.com/user-attachments/files/28505764/RESTURANT_ANALYSIS_-checkpoint.ipynb)
+
