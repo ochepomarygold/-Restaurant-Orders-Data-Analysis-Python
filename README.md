@@ -46,8 +46,6 @@ This analysis helps support better decision-making in menu optimization, invento
 ##  Project Preview
 
 
-https://github.com/user-attachments/assets/29450054-06d4-484a-9807-20c57c424434
-
 <img width="1612" height="912" alt="Restaurant_Analysis_Notebook and 5 more pages - Personal - Microsoft​ Edge 01_06_2026 21_57_55" src="https://github.com/user-attachments/assets/c489368d-8e52-45f9-a358-fd340734cda6" />
 <img width="1456" height="869" alt="Restaurant_Analysis_Notebook and 5 more pages - Personal - Microsoft​ Edge 01_06_2026 21_57_16" src="https://github.com/user-attachments/assets/14c56901-eff7-41e3-9d30-cb987f1615e0" />
 
@@ -65,6 +63,10 @@ https://github.com/user-attachments/assets/29450054-06d4-484a-9807-20c57c424434
 - Business Insights & Reporting
 - Jupyter Notebook
 ---
-## View Full Analysis
-[RESTURANT_ANALYSIS_-checkpoint.ipynb](https://github.com/user-attachments/files/28505764/RESTURANT_ANALYSIS_-checkpoint.ipynb)
+## Project walkthrough
+
+
+https://github.com/user-attachments/assets/de87f8bb-1d18-4bb9-be69-077a80f975d6
+
+
 
